@@ -1,0 +1,70 @@
+body
+{
+    background-color: bisque;
+}
+h2{
+    color: black;
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    
+
+}
+
+.increase {
+
+    color: black;
+    justify-content: center;
+    position: absolute;
+    top: 60%;
+    left: 43%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding: 1%;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    overflow: hidden;  
+    border-radius: 10px;
+  
+    
+}
+.dec {
+
+    color: black;
+    justify-content: center;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding: 1%;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    overflow: hidden;  
+    border-radius: 10px;
+  
+    
+}
+.reset {
+
+    color: black;
+    justify-content: center;
+    position: absolute;
+    top: 60%;
+    left: 57%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding: 1%;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    overflow: hidden;  
+    border-radius: 10px;
+  
+    
+}
